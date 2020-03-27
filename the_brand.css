@@ -1,0 +1,206 @@
+
+/* contact details row  */
+.contact_us_background_color{
+	background-color: #f8f8f8;
+	padding: 20px 0px 20px 0px;
+}
+.contact_us_padding{
+	padding: 10px 15px;
+}
+.contact_us_heading{
+	font-family: Montserrat;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: #3d3d3d;
+	padding-left: 20px;
+}
+.contact_us_list{
+	list-style-type: none;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	font-family: Montserrat;
+}
+.contac_us_list_link{
+	color: #3d3d3d;
+}
+.address_information_container{
+	padding-left: 20px;
+}
+.address_information{
+	font-family: Montserrat;
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+.email_address{
+	font-size: 13px;
+	margin-bottom: 5px;
+}
+.current{
+	text-decoration: none;
+	color: #4cada6;
+}
+/* boxes with blue and dark background */
+.boxes_line_padding{
+	padding: 30px 0px 30px 0px;
+	background-color: #f8f8f8;
+}
+.bottom_dark_text_block{
+	background-color: #333333;
+	margin-top: 20px !important;
+	padding: 25px 0px;
+}
+.bottom_dark_text{
+	font-family: Montserrat;
+	font-size: 28px;
+	color: white;
+	margin-bottom: 0px;
+}
+
+.bottom_light_text_block{
+	background-color: #00c8c8;
+	margin-top: 20px !important;
+	padding: 51px 0px;	
+}
+.icon_color{
+	color: white;
+	font-size: 30px;
+}
+/* footer setting */
+.footer_background{
+	background-color: #333333;
+	padding: 15px 0px 15px 0px;
+}
+.footer_text{
+	color: #818181;
+	font-family: Montserrat;
+	font-size: 14px;
+}
+/* top line  */
+.top_line{
+	background-color: #333333;
+}
+.no_padding{
+	padding: 5px 0px 5px 0px;
+}
+.document_font_family{
+	font-family: Montserrat;
+	font-size: 14px;
+	color: #767676;
+}
+.currency_select_menu{
+	background-color: #333333;
+	border: none;
+}
+.shoping{
+	background-color: #00c9c6;
+	color: white;
+}
+.padding_for_shopin_label{
+	margin-bottom: 0px !important;
+}
+.shoping_cart_text_color{
+	font-family: Montserrat;
+	font-size: 14px;
+	color: white;
+}
+.shoping_select{
+	border: none;
+}
+/* navbar classes */
+.navgar_container_div_padding{
+	padding: 20px 0px;
+}
+.remove_padding{
+	padding: 0px;
+}
+/*.position_setting{
+	position: absolute;
+	top: 50px;
+	left: 0;
+}*/
+.brand_name_text{
+	font-family: Montserrat;
+	font-size: 17px;
+	font-weight: bold;
+	margin: 0px 0px 0px 10px;
+}
+.navbar_button_margin_setting{
+	margin-left: 10px;
+}
+.main_nav_menu_items{
+	padding: 5px 15px 5px 5px !important;
+	font-size: 14px;
+	font-family: Montserrat;
+}
+.dropdown_width{
+	width: 350px;
+	background-color: #f8f8f8;
+}
+.drop_down_heading{
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 15px;
+	padding-left: 15px;
+}
+.drop_down_lists{
+	list-style-type: none;
+	padding: 0px 0px 0px 15px;
+}
+.dropdown_list_item_link{
+	color: black;
+	font-family: Montserrat;
+	font-size: 14px;
+}
+.sale_box{
+	width: 275px;
+	height: 150px;
+	background-color: #333333;
+	margin: 20px auto 20px auto;
+}
+.sales_text{
+	padding-top: 35px;
+    padding-bottom: 35px;
+    margin-bottom: 0px;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+.setting_dropdown_position{
+	position: relative;
+}
+.search_input_field{
+	background-color: #f8f8f8;
+	border-right: 0px solid #f8f8f8;
+	font-family: Montserrat;
+	width: 160px !important;
+}
+.search_button_setting{
+	padding: 6px 5px;
+	background-color: #f8f8f8;
+	border-top: 1px solid #d0d5db;
+	border-right: 1px solid #d0d5db;
+	border-bottom: 1px solid #d0d5db;
+	left: -27px;
+	position: relative;
+}
+.active_brand{
+	color: #4cada6 !important;
+}
+/* center content */
+.image_setting{
+	height: 400px;
+	padding: 0px 0px 0px 0px;
+	margin: 20px 0px;
+}
+.text_div_padding{
+	padding: 20px 0px;
+}
+.signature_div_padding{
+	padding-top: 40px;
+	padding-bottom: 15px;
+}
+/* background */
+.background_image{
+	height: 400px;
+	width: 100%;
+}
