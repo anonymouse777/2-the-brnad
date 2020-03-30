@@ -65,6 +65,9 @@
 	color: white;
 	font-size: 30px;
 }
+.light_box_icon_setting{
+	padding: 0px 20px 0px 20px;
+}
 /* footer setting */
 .footer_background{
 	background-color: #333333;
@@ -188,12 +191,12 @@
 }
 /* center content */
 .image_setting{
-	height: 400px;
+	/*height: 400px;*/
 	padding: 0px 0px 0px 0px;
 	margin: 20px 0px;
 }
 .text_div_padding{
-	padding: 20px 0px;
+	padding: 20px 10px;
 }
 .signature_div_padding{
 	padding-top: 40px;
@@ -201,6 +204,44 @@
 }
 /* background */
 .background_image{
-	height: 400px;
+	height: 450px;
+	position: static;
+}
+.color_setting{
+	position: absolute;
+	top: 112px;
 	width: 100%;
+	height: 450px;
+	background: rgb(3,5,8,.5);
+}
+.text_top_margin{
+	margin-top: 175px;
+	color: white;
+	font-size: 36px;
+}
+@media screen and (max-width: 992px){
+	.color_setting{
+		top: 150px !important;
+	}
+	@media screen and (max-width: 576px){
+		.color_setting{
+			top: 173px !important;
+			height: 300px;
+		}
+		.backgroud_image{
+			height: 300px;
+			width: 300px;
+		}
+		.background_image{
+			height: 300px;
+		}
+		.text_top_margin{
+			margin-top: 100px;
+			font-size: 24px;
+		}
+	}
+}
+body{
+	overflow-x: hidden;
+	font-family: Montesrrat;
 }
